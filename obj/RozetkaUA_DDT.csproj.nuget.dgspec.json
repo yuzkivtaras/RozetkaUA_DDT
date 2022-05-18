@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\AQA\\C#\\.NetProjects AQA\\RozetkaUA_DDT\\RozetkaUA_DDT\\RozetkaUA_DDT.csproj": {}
+  },
+  "projects": {
+    "D:\\AQA\\C#\\.NetProjects AQA\\RozetkaUA_DDT\\RozetkaUA_DDT\\RozetkaUA_DDT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AQA\\C#\\.NetProjects AQA\\RozetkaUA_DDT\\RozetkaUA_DDT\\RozetkaUA_DDT.csproj",
+        "projectName": "RozetkaUA_DDT",
+        "projectPath": "D:\\AQA\\C#\\.NetProjects AQA\\RozetkaUA_DDT\\RozetkaUA_DDT\\RozetkaUA_DDT.csproj",
+        "packagesPath": "C:\\Users\\yuzkv\\.nuget\\packages\\",
+        "outputPath": "D:\\AQA\\C#\\.NetProjects AQA\\RozetkaUA_DDT\\RozetkaUA_DDT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuzkv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.15.0, )"
+            },
+            "NUnit.Extension.VSProjectLoader": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit.Runners": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[101.0.4951.4100, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

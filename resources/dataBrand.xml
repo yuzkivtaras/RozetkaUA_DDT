@@ -1,0 +1,12 @@
+﻿<Filters>
+	<FiltersList>
+		<Filter>
+			<ProductName>Телефон</ProductName>
+			<BrandName>Мобильный телефон Apple iPhone</BrandName>
+		</Filter>
+		<Filter>
+			<ProductName>Ноутбук</ProductName>
+			<BrandName>Ноутбук Apple MacBook Air</BrandName>
+		</Filter>
+	</FiltersList>
+</Filters>
